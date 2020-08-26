@@ -1,3 +1,3 @@
-# Repo-2
+# My tribute page for FCC
 
-created another file using command line 
+Created a tribute page for FCC 
